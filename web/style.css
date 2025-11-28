@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;  
+}
+
+
+/* struk */
+/* Biar card Bootstrap tidak bertabrakan dengan margin struk */
+._container-struk {
+    background-color: ghostwhite;
+    width: 100%;
+    padding: 15px;
+}
+
+
+._header-struk{
+    background-color: orange;
+    box-shadow: 0 10px 10px #0000003d;;
+}
+
+._items-struk{
+    text-align: left;
+}
+
+._payment-struk {
+    text-align: right;
+    padding-right: 20px;
+}
+
+._payment-struk h4:nth-of-type(5) span{
+    background-color: lightgreen;
+}
+
+._payment-struk h4:last-of-type span{
+    background-color: lightskyblue;
+}

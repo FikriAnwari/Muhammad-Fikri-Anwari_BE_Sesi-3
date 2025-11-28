@@ -1,0 +1,32 @@
+[
+    {
+        "kode": "A001",
+        "nama": "Indomie Goreng",
+        "harga": 3500,
+        "stok": 100
+    },
+    {
+        "kode": "A002",
+        "nama": "Teh Botol Sosro",
+        "harga": 4000,
+        "stok": 50
+    },
+    {
+        "kode": "A003",
+        "nama": "Susu Ultra Milk",
+        "harga": 12000,
+        "stok": 30
+    },
+    {
+        "kode": "A004",
+        "nama": "Roti Tawar Sari Roti",
+        "harga": 15000,
+        "stok": 20
+    },
+    {
+        "kode": "A005",
+        "nama": "Minyak Goreng Bimoli 1L",
+        "harga": 18000,
+        "stok": 15
+    }
+]
